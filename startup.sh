@@ -1,27 +1,27 @@
-echo ">> FETCHING UPSTREAM..."
-git clone https://github.com/AsmSafone/MusicPlayer /MusicPlayer
-echo ">> INSTALLING REQUIREMENTS..."
+echo ">> Starting Installation"
+git clone https://github.com/TwistBots/MusicPlayer
+echo ">> Installing Files"
 cd /MusicPlayer
 pip3 install -U -r requirements.txt
-echo ">> STARTING MUSIC PLAYER USERBOT..."
+echo ">> Starting Music Player"
 clear
 echo "
 #     #                        
-##   ## #    #  ####  #  ####  
-# # # # #    # #      # #    # 
-#  #  # #    #  ####  # #      
-#     # #    #      # # #      
-#     # #    # #    # # #    # 
-#     #  ####   ####  #  ####  
+##   ## #   # #####  # ##### 
+# # # # #   # #      # #    
+#  #  # #   # #####  # #    
+#     # #   #     #  # #    
+#     # ##### #####  # ###### 
+
                                
-######                                    
-#     # #        ##   #   # ###### #####  
+######                                  
+#     # #        ##   #   # ###### ###### 
 #     # #       #  #   # #  #      #    # 
 ######  #      #    #   #   #####  #    # 
 #       #      ######   #   #      #####  
 #       #      #    #   #   #      #   #  
 #       ###### #    #   #   ###### #    # 
                                           
-MUSIC PLAYER USERBOT IS SUCCESSFULLY DEPLOYED!
+[ Music Player Is Successfully Deployed ]
 "
 python3 main.py
