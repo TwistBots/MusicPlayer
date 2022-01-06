@@ -47,7 +47,7 @@ thanks to the translators.
 
 ## ■ <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TwistBots/MusicPlayer)
 
 Steps to deploy -
 
