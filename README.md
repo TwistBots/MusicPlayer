@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://python.org"><img src="https://telegra.ph/file/c1d95129f334e29ed4776.jpg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/TwistBots/MusicPlayer?style=for-the-badge" alt="Stars">
+    
 </p>
 
 ## ■ <a name="features"></a>[Features]
